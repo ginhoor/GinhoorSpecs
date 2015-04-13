@@ -1,0 +1,2 @@
+# GinhoorSpecs
+private specs
